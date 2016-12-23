@@ -488,3 +488,7 @@ h6,
   font-size: 25px;
   text-align: right;
 }
+#slider2-4 .mbr-section-title,
+#slider2-4 .mbr-section-lead {
+  color: #fff;
+}
